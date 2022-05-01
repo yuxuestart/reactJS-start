@@ -11,3 +11,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#login-div {
+  box-sizing: border-box;
+  border: solid;
+  display: block;
+  justify-content: center;
+  align-items: center; 
+  padding: 0px 0px 15px 0px;
+}
+
+.h3-class {
+  padding-left: 10px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+}
+nav>a{
+  align-self:center;
+  background-color:rgb(232, 170, 238);
+}
+#nav-link {
+  align-items:center;
+  color:rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: bold;
+ 
+}
+
+label {
+  display: inline-block;
+  clear: left;
+  width:200px;
+  text-align: right;
+}
+.centered{
+  text-align:center;
+}
